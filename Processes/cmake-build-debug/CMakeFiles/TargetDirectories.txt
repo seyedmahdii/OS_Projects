@@ -1,0 +1,3 @@
+E:/University books/Term 5/OS/Projects/1.Processes/cmake-build-debug/CMakeFiles/1_Processes.dir
+E:/University books/Term 5/OS/Projects/1.Processes/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/University books/Term 5/OS/Projects/1.Processes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
